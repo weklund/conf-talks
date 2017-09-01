@@ -29,7 +29,7 @@ Want to learn how to have the exact same environment locally as is in production
 
 ### Dial Up Your Flow
 
-Crank out more bits for the web with automation tools. Learn how to peed up your development process, automate different processes most developers do already, and leverage your build cycle to save time.  We'll use a combination of tools to accomplish this with tools like npm, gulp, broswersync, yeoman, and more!
+Crank out more bits for the web with automation tools. Learn how to speed up your development process, automate different processes most developers do already, and leverage your build cycle to save time.  We'll use a combination of tools to accomplish this with tools like npm, gulp, broswersync, yeoman, and more!
 
 ### Ron Popeil Never Had It So Good
 

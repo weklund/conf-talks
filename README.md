@@ -1,6 +1,6 @@
 # conf-talks
 
-Here are some abstracts/summarys of talks I've given
+Here are some abstracts/summarys of talks I've made or given
 
 ## Machine Learning
 

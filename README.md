@@ -2,7 +2,23 @@
 
 Here are some abstracts/summarys of talks I've made or given
 
+## React
+
+### Reacting to a New Typescript World
+
+### Use React to Organize Your Complex Canvas Web App
+
 ## Machine Learning
+
+### Use Deep Learning to Detect Skin Cancer better than Dermatologists
+
+### How to Sell a Machine Learning Project to your Boss
+
+You've seen the power of Machine Learning, and you've done the Hello World projects.  So now how do you convince your boss at work it should be apart of the organization?  Or even better, how do you convince your boss it should be your new full time job?  This talk will discuss business problems ML can be great at solving, how to pitch to stakeholders, then how to structure the project pipeline.  Attendees will leave with knowledge of the practicality of using ML at work, frame the business case, and structure the project pipeline.
+
+### Detecting Abnormalities in the Brain with Deep Learning
+
+### How Web based Machine Learning can change Data Privacy
 
 ### Machine Learning: Understanding and building Neural Networks from Scratch
 
@@ -20,6 +36,11 @@ So you've learned what Machine Learning is, you've done the Hello World projects
 
 Once you've developed a kickass Machine Learning model, you need a way to get that model to your computing devices (phones) to start doing your predictions! Most Machine Learning projects in production will 'train' the model on cloud servers, then 'deploy' the model to an API server or mobile device. This session will introduce the attendee on using TensorFlow Serving and Apple CoreML to deploy Machine Learning models to a mobile app.
 
+## Leadership / Soft Skills
+
+### Four Ways to Lead your Software Team to Success
+
+Have you ever wondered about how your team operates and their dynamics?  Confused on how much (or alittle) wiggle room you should give your team?  Should a team have a singular focus or have a broader reach?  Wondering if there be a lot of team processes or alittle?  This talk will discuss 4 key components to keep in mind when running teams.  Attendees, whether they are team leads or team members, will leave with a solid understanding of what makes a team tick and how to improve cohesion.  Attendees will also have tangible, direct steps that they can take with their teams immediately.
 
 ## DevOps
 

@@ -8,7 +8,7 @@ Here are some abstracts/summarys of talks I've made or given
 
 ### Use React to Organize Your Complex Canvas Web App
 
-One of the biggest dichotomies in the Javascript world today is the nature of declarative frameworks like React and Vue, and the imperative graphics APIs like Canvas and WebGL.  The clash of architectures can make your codebase messy and hard to debug.  Fortunately we can use the Component patterns of these frameworks to isolate imperative code and actually make graphics more performant .  Attendees will learn how to properly structure their project to leverage frameworks like React and Vue for organzing imperative Canvas logic for cleaner code and better performing apps.
+One of the biggest dichotomies in the Javascript world today is the nature of declarative frameworks like React and Vue, and the imperative graphics APIs like Canvas and WebGL.  The clash of architectures can make your codebase messy and hard to debug.  Fortunately we can use the Component patterns of these frameworks to isolate imperative code and actually make graphics more performant.  Attendees will learn how to properly structure their project to leverage frameworks like React and Vue for organzing imperative Canvas logic for cleaner code and better performing apps.
 
 ## Machine Learning
 

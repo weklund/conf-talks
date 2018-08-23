@@ -8,9 +8,13 @@ Here are some abstracts/summarys of talks I've made or given
 
 ### Use React to Organize Your Complex Canvas Web App
 
+One of the biggest dichotomies in the Javascript world today is the nature of declarative frameworks like React and Vue, and the imperative graphics APIs like Canvas and WebGL.  The clash of architectures can make your codebase messy and hard to debug.  Fortunately we can use the Component patterns of these frameworks to isolate imperative code and actually make graphics more performant .  Attendees will learn how to properly structure their project to leverage frameworks like React and Vue for organzing imperative Canvas logic for cleaner code and better performing apps.
+
 ## Machine Learning
 
-### Use Deep Learning to Detect Skin Cancer better than Dermatologists
+### Use Deep Learning to Detect Skin Cancer Better than Dermatologists
+
+Skin Cancer is the most common Cancer in the world with 5.4 million new cases every year in the United States alone.  When diagnosed early, melanoma is easily cured by simple outpatient surgical excision.  Using the newest techniques with Keras and Python, this talk will go over how we can detect Melanoma from a large dataset of patient skin lesions.  Attendees will leave with the knowledge of using a labeled dataset to generate a Deep Learning model for a camera app.
 
 ### How to Sell a Machine Learning Project to your Boss
 

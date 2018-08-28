@@ -8,13 +8,23 @@ Here are some abstracts/summarys of talks I've made or given
 
 ### Use React to Organize Your Complex Canvas Web App
 
-React is great at building blocks of logic that propagate data from one DOM element to another.  Canvas is great at compute effient rendering.  What's not so great is trying to use them together.  While one is delcartive in aOne of the biggest dichotomies in the Javascript world today is the nature of a declarative framework like React, and an imperative graphics API like Canvas.  The clash of architectures can make your codebase messy and hard to debug.  Fortunately we can use the Component pattern of React to isolate imperative code and actually make the graphics more performant.  Attendees will learn how to properly structure their project to leverage React for organzing imperative Canvas logic for cleaner code and better performing apps.
+React is a great framework for declarative logic that propagates data from one DOM element to another. Canvas is great at changing state imperatively in a compute efficient way for graphics rendering. 
+
+What's not so great is trying to use them together. 
+
+The clash of architectures can make your codebase messy and hard to debug. 
+
+Fortunately, we can use the Component pattern of React to isolate imperative code and actually make the graphics more performant. Attendees will learn how to properly structure their project to leverage React for organizing imperative Canvas logic for cleaner code and better performing apps.
 
 ## Machine Learning
 
 ### Use Deep Learning to Detect Skin Cancer Better than Dermatologists
 
 Skin Cancer is the most common Cancer in the world with 5.4 million new cases every year in the United States alone.  When diagnosed early, melanoma is easily cured by simple outpatient surgical excision.  Using the newest techniques with Keras and Python, this talk will go over how we can detect Melanoma from a large dataset of patient skin lesions.  Attendees will leave with the knowledge of using a labeled dataset to generate a Deep Learning model for a camera app.
+
+### Dive into Deep Learning by Detecting Dog Breeds
+
+Excited about all the advancements in AI and Machine Learning?  Do you like dogs?  What better way to learn a new disapline by making a dog breed detection app?  In this session, we'll be learning the basics of Machine Learning, how Convolutional Neural Networks can help with Computer Vision problems, how to use Transfer Learning can speed up our training process, and how we can use our new model in a camera web app.
 
 ### How to Sell a Machine Learning Project to your Boss
 
